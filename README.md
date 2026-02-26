@@ -94,13 +94,15 @@ This project investigates the **Cybermobbing Kartell** - a sophisticated digital
 ## Current Research Status
 
 ### Data Collection Progress
-- **Artists Analyzed**: 83/350 profiles completed
+- **Artists Analyzed**: 86/350 profiles completed
 - **Network Mappings**: Comprehensive relationship diagrams created
 - **Pattern Identification**: Multiple manipulation techniques documented
 - **Technology Analysis**: AI and bot infrastructure mapped
 - **Operative Identities**: Jennifer Kornau (Lil Keen) and supporting network identified
-- **Major Operatives Discovered**: Bount (50,528 listeners), Artan67 (14 listeners), Blender (9,570 listeners)
+- **Major Operatives Discovered**: Bount (50,528 listeners), Artan67 (14 listeners), Blender (9,570 listeners), BNZO (395,001 listeners), c4rl (128,548 listeners)
 - **Underground Network**: Bianco (8 listeners), blvrry (8 listeners) - ultra-low profile operations
+- **Covert Operations**: cakes universe (0 listeners) - complete invisibility
+- **Supporting Network**: camillo (2,564 listeners) - hyperpop scene infiltration
 
 ### Recent Discoveries (February 26, 2026)
 - **Lil Keen (Jennifer Kornau)**: Confirmed operative from Langenhagen, 37,514 monthly listeners
