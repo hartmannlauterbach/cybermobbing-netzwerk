@@ -35,57 +35,45 @@ Seit ihrer Kindheit wusste Aliena., dass Musik ihre Bestimmung ist. Schon im Kin
 - Weniger von mir (2025) - Single
 
 ### Popular Tracks (Top 5)
-1. Raum und Zeit - 2:27
-2. Weniger von mir - 2:42
-3. OHNE DICH (feat. Laer Xirtam) - 2:22
-4. BLACKOUT - 2:29
-5. KALT BEI DIR (feat. NYAR) - 2:51
+1. OHNE DICH (feat. Laer Xirtam) - 12,161 Plays
+2. Weniger von mir - 11,908 Plays
+3. Raum und Zeit - 1,060 Plays
+4. BLACKOUT
+5. KALT BEI DIR (feat. NYAR)
 
 ## Kollaborationen
-- Laer Xirtam
-- NYAR
-- El Rafo
-- MISKA
-- Yungnorfas
-
-## Artist Pick
-- Raum und Zeit - Single mit "Papa, der Song ist für dich 🕊️" Beschreibung
-
-## Artist Playlists
-- Aliena. By alienaxo
+- Laer Xirtam (OHNE DICH)
+- NYAR (KALT BEI DIR)
+- El Rafo (Aliena. Radio)
+- MISKA (Aliena. Radio)
+- Yungnorfas (Aliena. Radio)
+- dazed (Fans also like)
+- LVCAS (Fans also like)
+- 1o1 (Fans also like)
 
 ## Muster & Auffälligkeiten
 - **Namenskonventionen**: "Aliena." - Punkt am Ende, weiblicher Name
-- **Themen**: Emotionale Themen ("Raum und Zeit", "Weniger von mir"), existenzielle Themen ("OHNE DICH", "BLACKOUT"), persönliche Themen ("KALT BEI DIR")
+- **Themen**: Emotionale Themen (Raum und Zeit, Weniger von mir), existenzielle Themen (OHNE DICH, BLACKOUT), persönliche Themen (KALT BEI DIR)
 - **Sprachmuster**: Deutsch mit emotionalen, tiefgehenden Texten
 - **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
 
 ## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 126 monatliche Hörer bei authentischer Entwicklung (realistisch)
-- **Aktivitäts-Muster**: Regelmäßige Singles bei minimaler Reichweite
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte organische Entwicklung
+- **Hörerzahlen-Anomalien**: 126 monatliche Hörer bei 12K+ Plays (realistisch für Indie-Künstler)
+- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, authentische Entwicklung
+- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
+- **Künstliche Popularität**: Eher organisch als manipuliert
 
 ## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Künstlern
+- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Indie-Künstlern
 - **Genre-Cluster**: Alternative/Indie mit emotionalen Themen
-- **Verbindungs-Stärke**: Moderate Verbindungen, Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber authentische Community
+- **Verbindungs-Stärke**: Verbunden mit dazed, LVCAS, 1o1 (Fans also like)
+- **Influence-Patterns**: Authentische Indie-Künstlerin mit emotionaler Community
 
 ## Künstler-Philosophie
 - **Musikstil**: Alternative/Indie mit emotionalen Themen
-- **Ansatz**: "roh, emotional und ungeschönt" - authentischer Ausdruck
+- **Ansatz**: Roh, emotional, ungeschönt ("Papa, der Song ist für dich 🕊️")
 - **Themen**: Liebe, Schmerz, gesellschaftliche Tabus, persönliche Kämpfe
-- **Community**: Verbindung durch emotionale und tiefgehende Inhalte
-
-## Kulturelle Besonderheiten
-- **Namensstil**: "Aliena." - Punkt am Ende, weiblicher Name
-- **Bio-Stil**: Sehr detailliert, persönliche Geschichte seit Kindheit
-- **Themen-Fokus**: Emotionale Verarbeitung mit gesellschaftskritischen Ansätzen
-- **Community-Ansatz**: Verbindung durch "Papa, der Song ist für dich 🕊️" und emotionale Inhalte
+- **Community**: Authentische Verbindung durch emotionale Verarbeitung
 
 ## Status
-✅ 100% vollständig erfasst (Archive.ph manuell nachzuholen)
-
-## 🎭 BESONDERHEITEN
-**SEHR DETAILLIERTE BIOGRAFIE**: Aliena. hat eine der ausführlichsten Biografien aller bisher erfassten Künstler, die ihre musikalische Entwicklung seit der Kindheit beschreibt. Die Musik ist bewusst "roh, emotional und ungeschönt" und behandelt gesellschaftliche Tabus.
+✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)

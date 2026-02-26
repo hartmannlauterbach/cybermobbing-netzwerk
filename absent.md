@@ -10,14 +10,14 @@
 - **Popularität**: Hoch (171K monatliche Hörer)
 
 ## Biografie
-Keine Biografie verfügbar
+"171,061 monthly listeners IG @absent.mp3"
 
 ## Online-Präsenz
 - **Offizielle Website**: Nicht gefunden
 - **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
+- **Instagram**: https://instagram.com/absent.mp3
 - **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+- **Andere Social Media**: Management durch @lucasxfkl
 
 ## Archive.is
 - **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
@@ -31,45 +31,44 @@ Keine Biografie verfügbar
 ### Singles
 - 200kmh (Latest Release) - Single
 
-### Popular Tracks (Top 3)
-1. katharsis (feat. consent2k) - 756,014 Plays
-2. benjamins - 587,041 Plays
-3. 200kmh - 454,657 Plays
-
-## Tour 2026
-### Aktuelle Tour-Termine (5 Konzerte)
-- **7. März 2026**: Berlin - Lido (20:00)
-- **8. März 2026**: München - Backstage Werk (20:00)
-- **11. März 2026**: Köln - Essigfabrik (20:00)
-- **15. März 2026**: Hamburg - Docks Hamburg (00:00)
-- **15. März 2026**: Hamburg - Docks Hamburg (20:00)
+### Popular Tracks (Top 5)
+1. HERZURÜCK - 3,890,947 Plays
+2. katharsis (feat. consent2k) - 756,014 Plays
+3. rockstar selfish - 684,703 Plays
+4. benjamins - 587,041 Plays
+5. 200kmh - 454,657 Plays
 
 ## Kollaborationen
-- consent2k
-- Alex Connor
-- Kidnfinity
-- inseri
+- consent2k (katharsis)
+- Alex Connor (absent Radio)
+- Kidnfinity (absent Radio)
+- inseri (absent Radio)
+- Edo Saiya (Fans also like)
+- Saint Purple (Fans also like)
 
-## Merchandise
-- Offizieller Merchandise verfügbar
+## Muster & Auffälligkeiten
+- **Namenskonventionen**: Kleingeschriebener Name "absent" - ironische Aussage über Abwesenheit
+- **Themen**: Emotionale Konzepte (HERZURÜCK, katharsis), Geld (benjamins), Geschwindigkeit (200kmh)
+- **Sprachmuster**: Deutsch mit emotionalen, teils aggressiven Texten
+- **Zahlenmystik**: "200kmh", "2K NOSTALGIA" - Zahlen als Konzept
+
+## Manipulations-Indikatoren
+- **Hörerzahlen-Anomalien**: 171,061 monatliche Hörer bei 3.8M+ Plays (realistisch für erfolgreichen Künstler)
+- **Aktivitäts-Muster**: Regelmäßige Releases, Tour-Aktivität, organische Wachstumsdynamik
+- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
+- **Künstliche Popularität**: Eher organisch als manipuliert
+
+## Netzwerk-Analyse
+- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Deutschrap-Künstlern
+- **Genre-Cluster**: Deutschrap/Trap mit emotionalen Themen
+- **Verbindungs-Stärke**: Stark verbunden mit consent2k, Edo Saiya, Saint Purple (Fans also like)
+- **Influence-Patterns**: Etablierter Künstler mit Tour-Präsenz und hohem Einfluss
+
+## Künstler-Philosophie
+- **Musikstil**: Deutschrap/Trap mit emotionalen Themen
+- **Ansatz**: Direkt, emotional, authentisch
+- **Themen**: Herzschmerz, Katharsis, Geld, Geschwindigkeit
+- **Community**: Aktive Tour-Präsenz, Management-Struktur, Instagram-Präsenz
 
 ## Status
 ✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
-
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: Kleingeschriebener Name "absent" - möglicherweise ironische Aussage über Abwesenheit
-- **Themen**: Depression/Suizidgedanken ("Suicide", "benjamins"), Geld ("benjamins")
-- **Sprachmuster**: Englisch mit deutschen Elementen
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
-
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 171,061 monatliche Hörer ist realistisch für aktiven Tour-Künstler
-- **Aktivitäts-Muster**: Regelmäßige Releases und Tour-Aktivität
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Organisches Wachstum mit echten Engagement
-
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen (consent2k, Alex Connor, etc.)
-- **Genre-Cluster**: Deutschrap/Cloud Rap mit starker Verankerung
-- **Verbindungs-Stärke**: Starke Verbindungen zu anderen Künstlern
-- **Influence-Patterns**: Hoher Einfluss in der Szene, Tour-Präsenz

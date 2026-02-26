@@ -41,15 +41,37 @@
 5. traum - 8,577 Plays
 
 ## Kollaborationen
-- Cubbie
-- nightfvry
-- dxstin
-- daviid
+- Cubbie (augen zu / augen auf)
+- Blender (aidan Radio)
+- lenny (aidan Radio)
+- Skepsiz (aidan Radio)
+- daviid (Fans also like)
+- JONII (Fans also like)
+- Niko Jug (Fans also like)
 
-## Playlists
-- cubbie core (DUNKEL 2026)
-- painless awareness therapy❤️‍🩹 (by y444)
-- Deep Songs German
+## Muster & Auffälligkeiten
+- **Namenskonventionen**: Einfacher, kleingeschriebener Name "aidan"
+- **Themen**: Atmosphärische Konzepte (wolkenleer, fensterweit, weißes rauschen), Emotionen (traum, bitter, vergessen)
+- **Sprachmuster**: Deutsch mit poetischen, introspektiven Texten
+- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+
+## Manipulations-Indikatoren
+- **Hörerzahlen-Anomalien**: 4,030 monatliche Hörer bei 69K+ Plays (realistisch für Indie-Künstler)
+- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Wachstumsdynamik
+- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
+- **Künstliche Popularität**: Eher organisch als manipuliert
+
+## Netzwerk-Analyse
+- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Cloud Rap-Künstlern
+- **Genre-Cluster**: Deutschrap/Cloud Rap mit atmosphärischen Themen
+- **Verbindungs-Stärke**: Stark verbunden mit daviid, JONII, Niko Jug (Fans also like)
+- **Influence-Patterns**: Teil des "cubbie core" Netzwerks
+
+## Künstler-Philosophie
+- **Musikstil**: Deutschrap/Cloud Rap mit atmosphärischen Elementen
+- **Ansatz**: Poetisch, introspektiv ("fensterweit")
+- **Themen**: Atmosphäre, Träume, Vergessen, emotionale Zustände
+- **Community**: Verbindung zu therapeutischen/emoitionalen Playlists
 
 ## Status
 ✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)

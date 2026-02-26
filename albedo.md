@@ -32,22 +32,44 @@
 - Narbe nach Narbe (2024) - Single
 - flaws - Single
 
-### Popular Tracks (Top 3)
-1. vino & pall mall - 6,213 Plays
-2. Narbe nach Narbe (feat. dxstin) - 4,650 Plays
+### Popular Tracks (Top 5)
+1. vino & pall mall (Explicit) - 6,213 Plays
+2. Narbe nach Narbe (feat. dxstin) (Explicit) - 4,650 Plays
 3. Echte Love - Remix (feat. l4eiche) - 4,030 Plays
+4. wenn ich nur wüsste (Explicit)
+5. pokedex (Latest Release)
 
 ## Kollaborationen
-- dxstin
-- l4eiche
-- Nyntex
-- nightfvry
+- dxstin (Narbe nach Narbe)
+- l4eiche (Echte Love - Remix)
+- Nyntex (albedo Radio)
+- nightfvry (albedo Radio)
+- 2dizzy (Fans also like)
+- Luzz (Fans also like)
 
-## Artist Playlists
-- best of albedo
+## Muster & Auffälligkeiten
+- **Namenskonventionen**: "albedo" - wissenschaftlicher Begriff (Rückstrahlvermögen)
+- **Themen**: Wissenschaftliche Konzepte (albedo), Anime-Referenzen (pokedex), Emotionen (Narbe nach Narbe), Lifestyle (vino & pall mall)
+- **Sprachmuster**: Deutsch mit wissenschaftlichen und Anime-Referenzen
+- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
 
-## Playlists
-- late night gym sesh (by Jojomusic)
+## Manipulations-Indikatoren
+- **Hörerzahlen-Anomalien**: 406 monatliche Hörer bei 6,213+ Plays (leicht verdächtig, 1:15 Ratio)
+- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, aber geringe Reichweite
+- **Bot-Indikatoren**: Moderat verdächtig durch höhere Plays bei geringen Hörern
+- **Künstliche Popularität**: Leichte Anomalien, aber organische Kollaborationen
+
+## Netzwerk-Analyse
+- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Cloud Rap-Künstlern
+- **Genre-Cluster**: Deutschrap/Cloud Rap mit wissenschaftlichen/Anime-Themen
+- **Verbindungs-Stärke**: Verbunden mit 2dizzy, Luzz (Fans also like)
+- **Influence-Patterns**: Spezialisiert auf Nischen-Themen (Wissenschaft, Anime)
+
+## Künstler-Philosophie
+- **Musikstil**: Deutschrap/Cloud Rap mit wissenschaftlichen und Anime-Referenzen
+- **Ansatz**: Intellektuell, Nischen-fokussiert ("Anime Baddie")
+- **Themen**: Wissenschaft (albedo), Anime (pokedex), emotionale Verletzungen (Narbe nach Narbe)
+- **Community**: Nischen-Community mit wissenschaftlichen/Anime-Interessen
 
 ## Status
 ✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)

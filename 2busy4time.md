@@ -54,5 +54,14 @@
 ## Netzwerk-Analyse
 - **Kollaborations-Dichte**: Keine nachweisbaren Kollaborationen
 - **Genre-Cluster**: Deutschrap (isoliert)
-- **Verbindungs-Stärke**: Keine starken Verbindungen
+- **Verbindungs-Stärke**: Verbindung zu Xam651, REDLION, Songenki (2busy4time Radio)
 - **Influence-Patterns**: Kein nachweisbarer Einfluss
+
+## Künstler-Philosophie
+- **Musikstil**: Deutschrap/Trap
+- **Ansatz**: Provokant, selbstbewusst ("Deine hoe hört mich auf Dauerschleife")
+- **Themen**: Business, Drogen-Kultur (Lean in Fanta)
+- **Community**: Emotionale Playlist-Titel ("Die Sonne geht unter und mein Herz gehört dir <3")
+
+## Status
+✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)

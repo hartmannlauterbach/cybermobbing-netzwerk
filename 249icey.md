@@ -32,11 +32,41 @@
 - Killa (Freestyle) (2024) - Single
 
 ### Popular Tracks (Top 5)
-1. RAYQUAZA (2,675 Plays)
-2. REGiGiGAS (1,398 Plays)
-3. RESHiRAM
-4. PALKiA
-5. Orkan (feat. lylyth)
+1. REGiGiGAS - 1,398 Plays
+2. Orkan (feat. lylyth) (Explicit) - 3:00
+3. RESHiRAM - 2:54
+4. RAYQUAZA - 2:19
+5. Killa (Freestyle)
+
+## Kollaborationen
+- lylyth (Orkan)
+- Tani ReD (249icey Radio)
+- sleepy6ixteen (249icey Radio)
+- LilYung BlueOxxy (249icey Radio)
+
+## Muster & Auffälligkeiten
+- **Namenskonventionen**: "249icey" - Zahlenkombination mit Adjektiv
+- **Themen**: Pokémon-Namen (RAYQUAZA, RESHiRAM, REGiGiGAS), Natur-Phänomene (Orkan)
+- **Sprachmuster**: Englisch mit informellem Stil ("lol")
+- **Zahlenmystik**: "249" als Teil des Namens
+
+## Manipulations-Indikatoren
+- **Hörerzahlen-Anomalien**: 96 monatliche Hörer bei moderaten Play-Zahlen (normal für Indie-Künstler)
+- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Aktivität
+- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
+- **Künstliche Popularität**: Eher organisch als manipuliert
+
+## Netzwerk-Analyse
+- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Phonk-Künstlern
+- **Genre-Cluster**: Phonk/Electronic mit Pokémon-Themen
+- **Verbindungs-Stärke**: Verbindung zu Raidex, kolp (Fans also like)
+- **Influence-Patterns**: Teil des Phonk-Netzwerks
+
+## Künstler-Philosophie
+- **Musikstil**: Phonk/Electronic mit Pokémon-Referenzen
+- **Ansatz**: Informell, leidenschaftlich ("love making music lol")
+- **Themen**: Popkultur, Natur-Phänomene
+- **Community**: Aktive Instagram-Präsenz
 
 ## Status
 ✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)

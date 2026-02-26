@@ -35,64 +35,42 @@
 - zigarette (2026) - Single
 
 ### Popular Tracks (Top 5)
-1. zigarette (feat. mehlhaltig) - 2:49
-2. wahnsinn (Explicit) - 2:24
-3. Paralyzed (feat. NYAR) - 2:42
-4. nahtod - 2:19
-5. Paralyzed (Artist Pick) - 2:42
+1. zigarette (feat. mehlhaltig) - [Play-Zahl nicht verfügbar]
+2. wahnsinn (Explicit) - [Play-Zahl nicht verfügbar]
+3. Paralyzed (feat. NYAR) - [Play-Zahl nicht verfügbar]
+4. nahtod - [Play-Zahl nicht verfügbar]
+5. silhouette (Latest Release)
 
 ## Kollaborationen
-- mehlhaltig
-- NYAR
-- Lostboy Luka
-- denshi
-
-## Artist Pick
-- Paralyzed - Single mit "Posted By anzai" Beschreibung
-
-## Discovered On
-- GERMAN SCENECORE/HYPERPOP (By sosu)
-- Best (By Ben)
-
-## Fans also like
-- Elijah249
-- NYAR
-
-## Appears On
-- QUARTER LIFE CRISIS (2025) - Album
+- mehlhaltig (zigarette)
+- NYAR (Paralyzed)
+- Lostboy Luka (anzai Radio)
+- denshi (anzai Radio)
+- Elijah249 (Fans also like)
 
 ## Muster & Auffälligkeiten
-- **Namenskonventionen**: "anzai" - japanischer Name
-- **Themen**: Emotionale Themen ("zigarette", "wahnsinn", "Paralyzed"), existenzielle Themen ("nahtod")
+- **Namenskonventionen**: "anzai" - japanischer Name bei Deutschrap
+- **Themen**: Emotionale Themen (zigarette, wahnsinn, Paralyzed), existenzielle Themen (nahtod)
 - **Sprachmuster**: Deutsch mit emotionalen, introspektiven Texten
 - **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
 
 ## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 1,703 monatliche Hörer bei authentischer Entwicklung (realistisch)
-- **Aktivitäts-Muster**: Regelmäßige Singles bei moderater Reichweite
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte organische Entwicklung
+- **Hörerzahlen-Anomalien**: 1,703 monatliche Hörer (realistisch für Indie-Künstler)
+- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
+- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
+- **Künstliche Popularität**: Eher organisch als manipuliert
 
 ## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Künstlern
+- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Hyperpop-Künstlern
 - **Genre-Cluster**: Deutschrap/Hyperpop mit emotionalen Themen
-- **Verbindungs-Stärke**: Starke Verbindungen, Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Moderater Einfluss durch Playlist-Integration
+- **Verbindungs-Stärke**: Verbunden mit Elijah249, NYAR (Fans also like)
+- **Influence-Patterns**: Teil des GERMAN SCENECORE/HYPERPOP Netzwerks
 
 ## Künstler-Philosophie
 - **Musikstil**: Deutschrap/Hyperpop mit emotionalen Themen
-- **Ansatz**: "ich laber in ein mikrophon rein" - direkter, authentischer Ausdruck
+- **Ansatz**: Direkt, authentisch ("ich laber in ein mikrophon rein")
 - **Themen**: Emotionale Verarbeitung, existenzielle Fragen, persönliche Kämpfe
-- **Community**: Verbindung durch Instagram und emotionale Inhalte
-
-## Kulturelle Besonderheiten
-- **Namensstil**: "anzai" - japanischer Name bei Deutschrap
-- **Bio-Stil**: Kurz, direkt, humorvoll mit Instagram-Referenz
-- **Themen-Fokus**: Emotionale Verarbeitung mit direktem Ansatz
-- **Community-Ansatz**: Verbindung durch "@anzaiwav" und emotionale Inhalte
+- **Community**: Instagram-Präsenz (@anzaiwav), emotionale Verbindung
 
 ## Status
-✅ 100% vollständig erfasst (Archive.ph manuell nachzuholen)
-
-## 🎭 BESONDERHEITEN
-**INSTAGRAM-INTEGRATION**: anzai hat eine direkte Instagram-Referenz (@anzaiwav) in der Bio, was auf eine aktive Social-Media-Präsenz hindeutet. Die Musik ist bewusst "roh" und direkt mit emotionalen Themen.
+✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
