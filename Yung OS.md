@@ -1,34 +1,34 @@
 # Yung OS
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 6lgSIKtsiOSiYHUeOHlweY
 - **Spotify Link**: https://open.spotify.com/artist/6lgSIKtsiOSiYHUeOHlweY
 - **Original Spotify-Link**: https://open.spotify.com/artist/6lgSIKtsiOSiYHUeOHlweY?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 13,522 (erfasst: 26.02.2026 03:38)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Alternative
-- **Popularität**: Hoch (13,522 monatliche Hörer)
+- **Monthly Listeners**: 13,522 (captured: 26.02.2026 03:38)
+- **Followers**: Not available
+- **Genre**: German Rap/Alternative
+- **Popularity**: High (13,522 monthly listeners)
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.ph
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:38
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:38
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - Leichter (Latest Release) - Single
@@ -40,45 +40,45 @@ Keine Biografie verfügbar
 4. Scherbengericht (feat. JD) - 2:17
 5. Wasting Love - 2:26
 
-## Kollaborationen
+## Collaborations
 - majin wav
 - JD
 
 ## Artist Pick
-- Leichter - Single mit "neuer Song <3" Beschreibung
+- Leichter - Single with "new song <3" description
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Yung OS" - Betriebssystem-Konzept
-- **Themen**: Emotionale Themen ("send me a sign"), existenzielle Themen ("Wasting Love"), technologische Themen ("Nyx")
-- **Sprachmuster**: Deutsch mit emotionalen Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Yung OS" - operating system concept
+- **Themes**: Emotional themes ("send me a sign"), existential themes ("Wasting Love"), technological themes ("Nyx")
+- **Language Patterns**: German with emotional lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 13,522 monatliche Hörer bei authentischer Entwicklung (hohe Reichweite)
-- **Aktivitäts-Muster**: Regelmäßige Singles bei hoher Reichweite
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte organische Entwicklung mit hoher Reichweite
+## Manipulation Indicators
+- **Listener Count Anomalies**: 13,522 monthly listeners with authentic development (high reach)
+- **Activity Patterns**: Regular singles with high reach
+- **Bot Indicators**: No signs of bot activity
+- **Artificial Popularity**: Genuine organic development with high reach
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Künstlern
-- **Genre-Cluster**: Deutschrap mit emotionalen Themen
-- **Verbindungs-Stärke**: Starke Verbindungen, Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Hoher Einfluss durch hohe Hörerzahlen
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar artists
+- **Genre Cluster**: German Rap with emotional themes
+- **Connection Strength**: Strong connections, part of "Fans also like" cluster
+- **Influence Patterns**: High influence due to high listener counts
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap mit emotionalen Themen
-- **Ansatz**: "Yung OS" - Betriebssystem-Konzept
-- **Themen**: Emotionale Verarbeitung, existenzielle Fragen, technologische Referenzen
-- **Community**: Verbindung durch emotionale Inhalte
+## Artist Philosophy
+- **Music Style**: German Rap with emotional themes
+- **Approach**: "Yung OS" - operating system concept
+- **Themes**: Emotional processing, existential questions, technological references
+- **Community**: Connection through emotional content
 
-## Kulturelle Besonderheiten
-- **Namensstil**: "Yung OS" - Betriebssystem-Konzept
-- **Bio-Stil**: Keine Biografie verfügbar
-- **Themen-Fokus**: Emotionale Verarbeitung mit technologischem Ansatz
-- **Community-Ansatz**: Verbindung durch "<3" und emotionale Inhalte
+## Cultural Characteristics
+- **Name Style**: "Yung OS" - operating system concept
+- **Bio Style**: No biography available
+- **Theme Focus**: Emotional processing with technological approach
+- **Community Approach**: Connection through "<3" and emotional content
 
 ## Status
-✅ 100% vollständig erfasst (Archive.ph manuell nachzuholen)
+✅ 100% fully captured (Archive.ph to be completed manually)
 
-## 🏆 BESONDERHEITEN
-**HOHE REICHWEITE**: Yung OS hat mit 13,522 monatlichen Hörern eine hohe Reichweite in der Deutschrap-Szene, was auf eine etablierte Präsenz hindeutet.
+## 🏆 SPECIAL FEATURES
+**HIGH REACH**: Yung OS has a high reach in the German Rap scene with 13,522 monthly listeners, indicating an established presence.
