@@ -1,0 +1,22 @@
+{
+  "network_id": "pattern_6736",
+  "artists": [
+    "aidan",
+    "anzai",
+    "Benzo Bailey",
+    "kidrainy",
+    "plainblaine",
+    "saimuzz"
+  ],
+  "size": 6,
+  "coordination_strength": 0.0,
+  "temporal_synchronization": 0.0,
+  "engagement_artificiality": 0.0,
+  "naming_convention_score": 0.0,
+  "genre_convergence_score": 0.0,
+  "overall_threat_level": 1.0,
+  "is_ai_generated": true,
+  "bot_probability": 0.0,
+  "analysis_date": "2026-02-26T05:17:12.527297",
+  "bfv_classification": "CRITICAL"
+}

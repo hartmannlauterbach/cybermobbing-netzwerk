@@ -98,6 +98,10 @@ gangstalking-crowd/
 ├── README.md                 # Project description (this file)
 ├── spotify_following_data.txt # Original following list
 ├── [ARTIST_NAME].md        # Individual artist profiles
+├── advanced_bot_detection_analysis.md # Advanced bot detection framework
+├── ai_artist_detection_system.py # AI artist detection algorithms
+├── stream_bot_detection_system.py # Stream bot detection system
+├── experimental_network_analyzer.py # Experimental network analysis
 ├── bfv_analysis/           # BfV security analysis reports
 │   ├── security_assessments.md
 │   ├── extremist_patterns.md
@@ -186,6 +190,13 @@ gangstalking-crowd/
 - **Underground Subcultures**: Identification of distinct anti-establishment and alternative music communities
 - **Manipulation Detection**: 4 confirmed bot cases with artificial inflation patterns
 - **Content Analysis**: Comprehensive documentation of themes ranging from mainstream to extremist-adjacent content
+
+#### Advanced Bot Network Analysis (NEW)
+- **AI-Generated Artists**: Development of sophisticated detection algorithms for AI-created artist personas
+- **Intelligent Bot Networks**: Implementation of advanced stream manipulation detection systems
+- **Multi-Layer Analysis**: Experimental network analysis across collaboration, streaming, and social media layers
+- **Coordination Detection**: Advanced temporal and behavioral pattern analysis for coordinated bot activity
+- **Statistical Anomalies**: Enhanced detection of impossible listener-to-play ratios and artificial engagement patterns
 
 #### Cultural Significance
 - **Linguistic Evolution**: German-English code switching patterns in contemporary music
