@@ -1,31 +1,31 @@
 # Yungbro
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 4y3n9JBV2WsXt6AHmz5chQ
 - **Spotify Link**: https://open.spotify.com/artist/4y3n9JBV2WsXt6AHmz5chQ
 - **Original Spotify-Link**: https://open.spotify.com/artist/4y3n9JBV2WsXt6AHmz5chQ?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 7 (erfasst: 26.02.2026 02:26)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 7 (captured: 26.02.2026 02:26)
+- **Followers**: Not available
 - **Genre**: Rap/Trap
-- **Popularität**: Extrem niedrig (7 monatliche Hörer)
+- **Popularity**: Extremely low (7 monthly listeners)
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 02:26
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 02:26
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### Singles
 - One Night Again (2022) - Single
@@ -33,7 +33,7 @@ Keine Biografie verfügbar
 ### Popular Tracks (Top 1)
 1. One Night Again - 3,988 Plays
 
-## Kollaborationen
+## Collaborations
 - toe
 - Mykel
 - Brix Noire
@@ -41,23 +41,23 @@ Keine Biografie verfügbar
 - plainblaine
 - GAZI
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Yung" + "bro" - klassische Rap-Namenskonvention
-- **Themen**: Emotionale Themen ("One Night Again"), romantische Motive
-- **Sprachmuster**: Englisch mit emotionalen Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Yung" + "bro" - classic rap naming convention
+- **Themes**: Emotional themes ("One Night Again"), romantic motifs
+- **Language Patterns**: English with emotional lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 7 monatliche Hörer bei 3,988 Plays (extrem verdächtig)
-- **Aktivitäts-Muster**: Minimaler Content bei extrem hohen Play-Zahlen
-- **Bot-Indikatoren**: Hohe Play-Zahlen bei fast nicht existenten Hörern deutet stark auf Bot-Aktivität hin
-- **Künstliche Popularität**: Extrem verdächtiges Verhältnis zwischen Plays und Hörern
+## Manipulation Indicators
+- **Listener Count Anomalies**: 7 monthly listeners with 3,988 plays (extremely suspicious)
+- **Activity Patterns**: Minimal content with extremely high play counts
+- **Bot Indicators**: High play counts with almost non-existent listeners strongly indicates bot activity
+- **Artificial Popularity**: Extremely suspicious ratio between plays and listeners
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Rap/Trap mit emotionalen Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber potenzielle Bot-Cluster-Bildung
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Rap/Trap with emotional themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, but potential bot cluster formation
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)
